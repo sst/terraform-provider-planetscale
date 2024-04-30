@@ -1,4 +1,4 @@
-module github.com/planetscale/terraform-provider-planetscale
+module github.com/sst/terraform-provider-planetscale
 
 go 1.21
 
