@@ -9,7 +9,7 @@ import (
 	"os"
 
 	"github.com/pkg/errors"
-	"github.com/planetscale/terraform-provider-planetscale/internal/client/planetscale"
+	"github.com/sst/terraform-provider-planetscale/internal/client/planetscale"
 	"golang.org/x/exp/slog"
 	"golang.org/x/oauth2"
 )

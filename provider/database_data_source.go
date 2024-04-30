@@ -7,7 +7,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-framework/datasource"
 	"github.com/hashicorp/terraform-plugin-framework/datasource/schema"
 	"github.com/hashicorp/terraform-plugin-log/tflog"
-	"github.com/planetscale/terraform-provider-planetscale/internal/client/planetscale"
+	"github.com/sst/terraform-provider-planetscale/internal/client/planetscale"
 )
 
 var (

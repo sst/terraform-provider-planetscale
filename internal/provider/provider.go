@@ -19,7 +19,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-framework/types/basetypes"
 	"github.com/hashicorp/terraform-plugin-log/tflog"
 	"github.com/pkg/errors"
-	"github.com/planetscale/terraform-provider-planetscale/internal/client/planetscale"
+	"github.com/sst/terraform-provider-planetscale/internal/client/planetscale"
 	"golang.org/x/oauth2"
 )
 

@@ -17,7 +17,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-framework/resource/schema/stringplanmodifier"
 	"github.com/hashicorp/terraform-plugin-framework/types"
 	"github.com/hashicorp/terraform-plugin-log/tflog"
-	"github.com/planetscale/terraform-provider-planetscale/internal/client/planetscale"
+	"github.com/sst/terraform-provider-planetscale/internal/client/planetscale"
 )
 
 // Ensure provider defined types fully satisfy framework interfaces.

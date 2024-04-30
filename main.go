@@ -10,7 +10,7 @@ import (
 	"os"
 
 	"github.com/hashicorp/terraform-plugin-framework/providerserver"
-	"github.com/planetscale/terraform-provider-planetscale/internal/provider"
+	"github.com/sst/terraform-provider-planetscale/internal/provider"
 )
 
 // Run "go generate" to format example terraform files and generate the docs for the registry/website

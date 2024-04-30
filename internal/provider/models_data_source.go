@@ -5,7 +5,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-framework/datasource/schema"
 	"github.com/hashicorp/terraform-plugin-framework/diag"
 	"github.com/hashicorp/terraform-plugin-framework/types"
-	"github.com/planetscale/terraform-provider-planetscale/internal/client/planetscale"
+	"github.com/sst/terraform-provider-planetscale/internal/client/planetscale"
 )
 
 func organizationDataSourceSchemaAttribute(computedName bool) map[string]schema.Attribute {
